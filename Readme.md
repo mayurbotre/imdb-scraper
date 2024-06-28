@@ -26,8 +26,7 @@ Ensure you have Docker installed on your system. You can download Docker from [h
     You can also use curl to access the API:
     ```bash
     curl http://localhost:5001/movies
-
-
+    ```
 
 This `README.md` file includes the project structure, setup instructions, and all the necessary code and configurations to get your project up and running. If you need further assistance, feel free to ask!
 
